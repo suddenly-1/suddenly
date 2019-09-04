@@ -1,0 +1,2 @@
+webpackJsonp([4],{"o/Yg":function(t,e){},taF9:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var r={render:function(){var t=this.$createElement;return(this._self._c||t)("div",{staticClass:"product"},[this._v("\n  product\n")])},staticRenderFns:[]};var a=n("C7Lr")({name:"product"},r,!1,function(t){n("o/Yg")},"data-v-750d1aa2",null);e.default=a.exports}});
+//# sourceMappingURL=4.38d2bfa956ff798a4bf6.js.map
